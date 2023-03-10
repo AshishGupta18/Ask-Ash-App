@@ -1,10 +1,10 @@
-# ask_ash
+# Ask_Ash
+An app built in Flutter where implementation of ChatGPT is done some additional features like integration of all the models of openai.
 
-A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Feed any question you want to ask and the bot will reply to your query as per your model chosen.
 
 A few resources to get you started if this is your first Flutter project:
 
